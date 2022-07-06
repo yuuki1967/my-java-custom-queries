@@ -1,0 +1,8 @@
+---
+library: false
+name: yuuki1967/my-java-custom-queries
+version: 0.0.1
+description: emptythen
+default-suite: 
+  - query: ./emptythen.ql
+libraryPathDependencies: codeql-java
