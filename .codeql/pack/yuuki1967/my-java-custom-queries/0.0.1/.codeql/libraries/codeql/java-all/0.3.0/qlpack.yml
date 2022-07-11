@@ -1,0 +1,12 @@
+---
+library: true
+name: codeql/java-all
+version: 0.3.0
+buildMetadata:
+  sha: 56786790fcf88b79d1d26b946ff36dfe2d6f33ac
+  cliVersion: 2.10.0
+dbscheme: config/semmlecode.dbscheme
+extractor: java
+upgrades: upgrades
+groups:
+ - java
